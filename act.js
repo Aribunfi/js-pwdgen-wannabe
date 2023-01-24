@@ -16,3 +16,6 @@ console.log('Qual è il tuo colore preferito?' + favColor);
 
 
 //restituisci: nome+cognome+colore+23
+
+const userPsw = userName + userSurname + favColor + "23"
+const risposta = "Grazie, ecco la tua password" + userPsw;
